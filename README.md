@@ -1,6 +1,8 @@
 # reaction-time
 
-a Basic Reaction Tester. 
+a Basic Reaction Tester.
+
+[Live site](https://reaction-timerr.netlify.app/)
 
 ## Recommended IDE Setup
 
