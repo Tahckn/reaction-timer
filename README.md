@@ -1,31 +1,32 @@
-# reaction-time
+# Reaction Timer
 
-a Basic Reaction Tester.
+Reaction tester app
 
-[Live site](https://reaction-timerr.netlify.app/)
+Created with Vue.js and Tauri for Windows app.
 
-## Recommended IDE Setup
+ [Website version](https://reaction-timerr.netlify.app/).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Screenshots
+![app image](https://github.com/Tahckn/reaction-timer/blob/main/public/Reaction_Time_cD18rcF7PD.png)
 
-## Customize configuration
+![app image](https://github.com/Tahckn/reaction-timer/blob/main/public/Reaction_Time_Ix0mSkRT5B.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
+## Installation
+```bash
+Export the .msi file from zip and install thats it.
 ```
 
-### Compile and Hot-Reload for Development
+## Usage
+ ```bash
+npm run install
 
-```sh
-npm run dev
+npm run tauri build - (for build windows app)
 ```
+## Contributing
 
-### Compile and Minify for Production
+Pull requests are welcome.
 
-```sh
-npm run build
-```
+## License
+
+[MIT](https://github.com/Tahckn/reaction-timer/blob/main/LICENSE)
