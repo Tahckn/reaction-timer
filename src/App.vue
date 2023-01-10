@@ -25,7 +25,7 @@ const data = reactive({
 
 const start = () => {
   data.isPlaying = true
-  data.delay = 2000 + Math.random() * 5000
+  data.delay = 1200 + Math.random() * 5000
   data.delayArray.unshift(data.delay)
   data.showResults = false
 }
